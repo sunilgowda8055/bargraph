@@ -1,0 +1,18 @@
+.App{
+  display: flex;
+  /* align-items: center; */
+  margin-top: 10%;
+  justify-content: space-around;
+}
+
+.mychart{
+  /* border: 1px solid black; */
+  width: 400px;
+ 
+}
+.mychart2{
+  width: 400px;
+}
+.mychart3{
+  width: 400px;
+}
